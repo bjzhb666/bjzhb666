@@ -18,10 +18,3 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bjzhb666)](https://github.com/bjzhb666/github-readme-stats)
-
-<a href="https://github.com/bjzhb666/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bjzhb666&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjzhb666" />
-</a>
